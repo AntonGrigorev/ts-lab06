@@ -8,7 +8,7 @@ int main() {
     std::vector<std::vector<int>> matrix = {
     {0, 3, 5, 3, INF, INF, INF, INF},
     {INF, 0, INF, INF, 1, INF, INF, INF},
-    {INF, INF, 0, INF, 2, INF, INF, INF},
+    {INF, INF, 0, 4, 2, INF, INF, INF},
     {INF, INF, INF, 0, 4, INF, INF, INF},
     {INF, INF, INF, INF, 0, 3, 3, INF},
     {INF, INF, INF, INF, INF, 0, INF, 5},
